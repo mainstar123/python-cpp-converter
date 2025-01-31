@@ -2,6 +2,9 @@
 
 This project converts Python code to high-performance C++ code using AI models like GPT and Claude. The generated C++ code aims to produce identical output to the original Python code in the fastest possible time.
 
+## Preview
+![Screenshot 2025-01-31 151957](https://github.com/user-attachments/assets/c655eff7-9c59-4e91-abe2-1259aab4c502)
+
 ## Setup
 
 1. **Clone the repository:**
